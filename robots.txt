@@ -1,0 +1,5 @@
+# STAR ENTERPRISE Robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://starenterprise.com/sitemap.xml
